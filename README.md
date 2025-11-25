@@ -24,6 +24,6 @@ Awesome sauce features
 ![Small Gold Ambient Lighting Table Lamp - Cozy Wooden Table Lamp With Pleated Shade](https://github.com/user-attachments/assets/bdc550f0-7ebc-44e1-b48e-a909afa30841)
 ![edaccf1c-71b4-47d2-ad32-de5a3b5166a8](https://github.com/user-attachments/assets/76231ea3-d704-406a-aa01-e4e0988054cc)
 
-##Made and opensourced by Jake Hopkins for blueprint, a part of Hackclub
+### Made and opensourced by Jake Hopkins for blueprint, a part of Hackclub
 
 
