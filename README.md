@@ -1,4 +1,8 @@
 # Minimalist-lamp
+# Final Product 
+!<img width="3264" height="2448" alt="IMG_1110" src="https://github.com/user-attachments/assets/6b7d9a5d-7c68-450c-948c-30c6cc720da2" />
+
+
 Engineering never has enough design, so I wanted to bring a form over funtion design to Blueprint. Yes it's a lamp, but I want this to be more of a funtional decoration then a robot.
 I designed this whole thing to be 3d printed in 2 parts, the lamp shade and legs. 
 Awesome sauce features
